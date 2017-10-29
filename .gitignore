@@ -2,6 +2,7 @@
 **/.vs/
 **/out/
 **/.gitignore
+**/*.iml
 c#/**/bin/
 c#/**/obj/
-**/*.iml
+rust/**/target/
