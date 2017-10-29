@@ -5,4 +5,6 @@
 **/*.iml
 c#/**/bin/
 c#/**/obj/
+java/**/.gradle/
+java/**/build/
 rust/**/target/
