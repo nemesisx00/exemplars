@@ -1,6 +1,7 @@
 **/.idea/
 **/.vs/
+**/out/
+**/.gitignore
 c#/**/bin/
 c#/**/obj/
 **/*.iml
-java/**/out/

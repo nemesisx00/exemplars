@@ -1,0 +1,8 @@
+{
+	"name": "helloworld",
+	"authors": [
+		"Peter Lunneberg"
+	],
+	"description": "A minimal Hello World D application.",
+	"license": "ISC"
+}
