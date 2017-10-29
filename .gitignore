@@ -1,3 +1,6 @@
 **/.idea/
+**/.vs/
+c#/**/bin/
+c#/**/obj/
 **/*.iml
 java/**/out/
