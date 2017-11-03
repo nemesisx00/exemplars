@@ -4,7 +4,7 @@ This repository is a collection of small applications, written in an assortment 
 
 ### Folder Structure ###
 
-The applications are divided first into different folders depending upon the language used to implement them. The second level splits each application into its own folder. The third and final level is where the code and various other files necessary to implement the application reside.
+The applications are divided first into different folders depending upon the language used to implement them. The second level splits each application into its own folder. The third and final level is where the code and various other files necessary to implement each application reside.
 
 ### Contact Information ###
 
