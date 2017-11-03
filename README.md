@@ -9,3 +9,12 @@ The applications are divided first into different folders depending upon the lan
 ### Contact Information ###
 
 If what you see here, humble though it may be, piques your interest and you would like to talk about working with me you might be interested in my Stack Overflow [Developer Story](https://stackoverflow.com/story/peterlunneberg). You can also contact me directly at: [plunn.dev+exemplars@gmail.com](mailto:plunn.dev+exemplars@gmail.com)
+
+### Applications Implements ###
+
+* Hello World (generally meaningless but why not?)
+
+### Applications To Be Implemented ###
+
+* Calculator
+* tbd...
