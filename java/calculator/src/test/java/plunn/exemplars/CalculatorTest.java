@@ -1,6 +1,7 @@
 package plunn.exemplars;
 
 import org.junit.jupiter.api.Test;
+import plunn.exemplars.calculator.Calculator;
 
 import static org.junit.jupiter.api.Assertions.*;
 

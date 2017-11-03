@@ -25,6 +25,19 @@ dependencies {
 	testRuntime("org.junit.jupiter:junit-jupiter-engine:${junitJupiterVersion}")
 }
 
+jar {
+	archiveName = 'calculator.jar'
+	
+	manifest {
+		attributes(
+			'Class-Path': configurations.compile.collect { it.getName() }.join(' '),
+			'Main-Class': 'plunn.exemplars.Main'
+		)
+	}
+	
+	from(configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }) {}
+}
+
 junitPlatform {
 	filters {
 		engines {
