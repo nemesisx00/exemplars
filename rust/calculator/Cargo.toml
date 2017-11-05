@@ -1,0 +1,6 @@
+[package]
+name = "calculator"
+version = "1.0.0"
+authors = ["Peter Lunneberg <plunn.dev+exemplars@gmail.com>"]
+
+[dependencies]
