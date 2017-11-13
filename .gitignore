@@ -10,3 +10,4 @@ c++/**/build/
 java/**/.gradle/
 java/**/build/
 rust/**/target/
+python/**/__pycache__/
